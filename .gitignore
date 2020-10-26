@@ -1,2 +1,4 @@
 *.py[co]
 *.sw[op]
+venv
+output
